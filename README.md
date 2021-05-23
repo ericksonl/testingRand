@@ -3,7 +3,7 @@ Created by: Liam Erickson
 Date: 5/22/2021
 File Name: Main.java
 
-I was curious how random the ran.nextInt was. To test this I created a program that will generate numbers from 0-10(inclusive) and outputs the amount of each number that was generated, as well as the percantage. I discovered that overall it was random, with every number having around a 9.1% chance of being generated. 
+I have always been curious how random the ran.nextInt function from the Random class in the java.util package was. To test this I created a program that will generate numbers from 0-10(inclusive) and outputs the amount and overall percantage the numbers occurred. I discovered that overall it was random, with every number having around a 9.1% chance of being generated. 
 
 # Sample output:
 ```
